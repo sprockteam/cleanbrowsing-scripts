@@ -4,7 +4,7 @@ Scripts related to managing the CleanBrowsing service via their API.
 ### How to begin
 - Clone the project to your computer and copy the sample config.
 ```console
-get clone https://github.com/sprockteam/cleanbrowsing-scripts.git
+git clone https://github.com/sprockteam/cleanbrowsing-scripts.git
 cd cleanbrowsing-scripts
 cp sample-config.sh config.sh
 ```
